@@ -1,4 +1,0 @@
-Reflection-Explorer
-===================
-
-Reflection Explorer
